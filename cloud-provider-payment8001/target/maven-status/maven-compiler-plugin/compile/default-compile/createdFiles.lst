@@ -1,0 +1,5 @@
+com\atguigu\springcloud\springcloud\service\impl\PaymentyServiceImpl.class
+com\atguigu\springcloud\springcloud\service\PaymentyService.class
+com\atguigu\springcloud\springcloud\controller\PaymentController.class
+com\atguigu\springcloud\springcloud\ProviderPaymentMain8001.class
+com\atguigu\springcloud\springcloud\dao\PaymentDao.class
